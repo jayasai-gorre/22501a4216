@@ -12,7 +12,6 @@ export const getShortUrlInfo = async (code) => {
     return response.data;
 }
 
-
 export const getAllUrls = async () => {
     const response = await axios.get(`${BASE_URL}/all/urls`);
     return response.data;
