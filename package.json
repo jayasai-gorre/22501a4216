@@ -1,0 +1,17 @@
+{
+  "name": "affordmed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node \"./Backend Test Submission/index.js\""
+  },
+  "keywords": [],
+  "author": "Jaya Sai Gorre | 22501a4216",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
